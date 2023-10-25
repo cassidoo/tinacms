@@ -1,5 +1,11 @@
 # tina-graphql
 
+## 1.4.28
+
+### Patch Changes
+
+- 8b8a6c96b: add error link
+
 ## 1.4.27
 
 ### Patch Changes
